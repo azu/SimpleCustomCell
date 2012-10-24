@@ -10,4 +10,9 @@
 
 }
 
+// オブジェクトの配置等はここで操作する
+- (void)layoutSubviews {
+    [super layoutSubviews];
+}
+
 @end
